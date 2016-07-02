@@ -22,14 +22,14 @@
   
     
     <entry>
-      <title><![CDATA[tags]]></title>
-      <url>http://wenquan.qichengzong.com/tags/index.html</url>
+      <title><![CDATA[about]]></title>
+      <url>http://wenquan.qichengzong.com/about/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title><![CDATA[about]]></title>
-      <url>http://wenquan.qichengzong.com/about/index.html</url>
+      <title><![CDATA[tags]]></title>
+      <url>http://wenquan.qichengzong.com/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
